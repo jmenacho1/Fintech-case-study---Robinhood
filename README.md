@@ -35,15 +35,19 @@ The company's competitive advantage is the fact that they were one of the *"firs
 
 
 
-**Robinhood Millennial Customer Checklist**
+**Robinhood Millennial Customer Checklist:**
 
 - [X] Free-ness
 - [X] Sleek, Coolness Factor
 - [X] Unique Proprietary Tools
 
+
 As Robinhood himself said:
 
+
 > **_"Steal From the Rich and take from the Poor?"_**
+
+
 
 
 ![robinhood.tweety](robinhood.tweety.JPG)
@@ -84,14 +88,7 @@ The trajectory of the online brokerage industry over the last twenty years has b
 
 
 
-The online brokerage industry is a Fintech industry that has undergone massive changes in the last year. Much of these changes occured after the industry saw several of its players try to differniate themselves by offering customers slightly varied platforms that provided things such as naunced research products and low to no fees on products such as ETFs.  In the fall of 2019, large player, Interactive Brokers, sought to gain market share by taking commissions to zero on ETF trades in their IB *"Lite"* service. [^16] 
-
-This *"race to zero"* on fees in the back half of 2019 led to a massive consolidation 
-
-In the last handful of years the industry has become very fragamented as players tried to differentiate themselves by offering different things to customers.
-
-The second half of 2019 saw the industry try to come up with ways to ramp trading activity as online customers (read retail) keenly took their money out of the market as the market ground slowly to all-time highs.
-
+The online brokerage industry is a Fintech industry that has undergone massive changes in the last year. Much of these changes occured after the industry saw several of its players try to differniate themselves by offering customers slightly varied platforms that provided things such as naunced research products and low to no fees on products such as ETFs.  In the fall of 2019, large player, Interactive Brokers, sought to gain market share by taking commissions to zero on ETF trades in their IB *"Lite"* service. [^16] About a month later, Charles Schwab sent shockwaves across the industry by taking fees to zero on all stock trading which forced TD, E-Trade, Ally, adn Fidelity to do the same a week later.  This *"race to zero"* on fees in the back half of 2019 led to a massive consolidation where only a few months later in January, Schwab and TD Ameritrade merged.  This was the eventual result of margins getting constantly compressed in the industry.
 
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?

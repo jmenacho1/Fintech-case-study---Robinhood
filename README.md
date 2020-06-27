@@ -15,7 +15,7 @@ Robinhood in an online brokerage company that was founded with the thought that 
 
 Vlad Tenev and Baiju Bhatt lived and worked in New York after college and started up two companies in a short amount of time. The first wwas an algorithmic trading company called Celeris and the second one was a financial software company called Chronos Research. [^1]  Seeing first-hand that institutions were paying little for trades relative to individual investors and that the online technology and research afforded to this investor class was lacking.
 
-Robinhood was incorporated on April 18, 2013 and their initial funding was $3 million. [^2]  After their May 2020 $280 million funding they have now raised $1.2 billion over  eight separate funds which gets them to an $8.3 billion valuation. [^3] The most recent yearly (2018) revenue estimate was $100.6 million. [^4}
+Robinhood was incorporated on April 18, 2013 and their initial funding was $3 million. [^2]  After their May 2020 $280 million funding they have now raised $1.2 billion over  eight separate funds which gets them to an $8.3 billion valuation. [^3] The most recent yearly (2018) revenue estimate was $100.6 million. [^4]
 
 ## Business Activities:
 
@@ -40,6 +40,14 @@ The company's competitive advantage is the fact that they were one of the *"firs
 - [X] Free-ness
 - [X] Sleek, Coolness Factor
 - [X] Unique Proprietary Tools
+
+
+**_Steal From the Rich and take from the Poor?_**
+
+
+![robinhood.tweety](robinhood.tweety.JPG)
+
+
 
 
 Well so then how does Robinhood make money? They make money on cash balances, margining, and small money on customer deposits if they can use them to get a higher yield elsewhere. Back in October of 2018 they allowed that they were making almost half their revenues in payment for order flow.  That is, third-parties that pay Robinhood for their order flow so that they can dictate which routes the orders will be executed at. Meaning that the third party takes some sort of spread on a given trade to the detriment of the customer. It was discovered that Robinhood was entering into these transactions to the tune of sixty times more. [^11][^12]
@@ -69,7 +77,7 @@ The trajectory of the online brokerage industry over the last twenty years has b
 
 
 
-![Steam](Steam.JPG)
+![steam](steam.JPG)
 
 
 

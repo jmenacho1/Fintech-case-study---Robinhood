@@ -48,7 +48,7 @@ The company's competitive advantage is the fact that they were one of the *"firs
 As Robinhood himself said:
 
 
-> **_"Steal From the Rich and take from the Poor?"_**
+> **_"Steal From the Rich and TAKE from the Poor?"_**
 
 
 

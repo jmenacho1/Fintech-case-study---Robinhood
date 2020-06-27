@@ -25,7 +25,7 @@ The company has tried to even the playing field for the younger, less-establishe
 
 The company seeks to be the primary place that these often first-time investors go to trade single stocks, ETFs, and Crypto currencies. In addition, in late 2018 and into late 2019, Robinhood sought to get into personal banking in an atempt to expad thier footprint in this demographic's finances.  During this time they were supposedly close to aligning with Ohio-based Sutton Bank where they would issue debit cards to customers and a supposed 3% annual interest rate to be given for bank depostis.  These deposits were to be SPIC-insured but the SPIC denied this. Robinhood had to wait until December 2019 to launch a "cash management" FDIC-backed product that would give customers a 1.8% rate on cash held at Robinhood. [^4]  
 
-The age group that the firm has the most traction with is 28 to 41 years old. [^5]  In December of 2019, Robinhood signed up their 10 millionth custoner. [^6]. Tenev was on televsion in late_april saying that Robinhood has been getting 50% of the national new brokerage accounts which is more then all the legacy players put together. [^7]  If it assumed that the company desires to be the one-stop shopping for all things financial for the  *"millennial"* generation (Ages 18 to 34) then there is more share to be gained for Robinhood as there are currently 75 million millennials in the US as of 2015. [^8]
+The age grouping that the firm has the most traction with is 28 to 41 years old. [^5]  In December of 2019, Robinhood signed up their 10 millionth custonmer. [^6]. Tenev was on televsion in late_april saying that Robinhood has been getting 50% of the national new brokerage accounts which is more then all the legacy players put together. [^7]  If it assumed that the company desires to be the one-stop shopping for all things financial for the  *"millennial"* generation (Ages 18 to 34) then there is more share to be gained for Robinhood as there are currently 75 million millennials in the US as of 2015. [^8]
 
 
 
@@ -33,6 +33,14 @@ The age group that the firm has the most traction with is 28 to 41 years old. [^
 
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+
+The company's competitive advantage is the fact that they were one of the *"first movers"* with the commission free trading platform and as a result they garnered a lot of insight into the investing methods and tendencies of smaller investors. [^9]  They are looked at as a "free" platform and is the appeal from a branding ppoint of view when potential customers are wanting to deploy money. The interface is very easy to use and is very sleek and that appels to millennials versus using one of the stodgey offerings ogf the legacy players in the space. Robinhood has some pretty cool features where they have "leaderboard" and "popularity changes" which show the most popular holdings of Robinhood customers over various holding periods. The below shows the stock (ticker: AAL) and the pink line shows the stock's price while the green line shows the collective holdins og Robinhood members. This is obviously proprietary in nature as it is their userbase that is creating the graphical representation of holdings. 
+
+
+![AAL.robinhood](AAL.robinhood.JPG)
+
+
+
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
@@ -86,6 +94,7 @@ The second half of 2019 saw the industry try to come up with ways to ramp tradin
 [^6]: [Blog Robinhood](https://blog.robinhood.com/news/2019/12/4/ten-million-thanks)
 [^7]: [Marker Medium](https://marker.medium.com/how-robinhood-convinced-millennials-to-trade-their-way-through-a-pandemic-1a1db97c7e08)
 [^8]: [Brookings](http)s://www.brookings.edu/research/millennials/)
+[^9]: [Quora](https://www.quora.com/What-s-the-advantage-of-Robinhood)
 
 
 [^10] [Marker Medium](https://marker.medium.com/how-robinhood-convinced-millennials-to-trade-their-way-through-a-pandemic-1a1db97c7e08)

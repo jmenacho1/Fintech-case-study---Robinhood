@@ -9,7 +9,7 @@
  
 ---
 
-## Overview and Origin
+### Overview and Origin
 
 Robinhood in an online brokerage company that was founded with the thought that individual investors could be emowered through clean mobile-focused user interface, low fees, and *"outside-the-box"* investment tools.  The firm was founded by two former Stanford Univertity roommates who - after trying their hand in New York's finance industy - saw a clear need to create an individula investor-targeted online brokerage offering.  
 
@@ -17,7 +17,7 @@ Vlad Tenev and Baiju Bhatt lived and worked in New York after college and starte
 
 Robinhood was incorporated on April 18, 2013 and their initial funding was $3 million. [^2]  After their May 2020 $280 million funding they have now raised $1.2 billion over  eight separate funds which gets them to an $8.3 billion valuation. [^3] The most recent yearly (2018) revenue estimate was $100.6 million. [^4]
 
-## Business Activities:
+### Business Activities:
 
 The company has tried to even the playing field for the younger, less-established investor class as it relates to competitive fees as well as research and trading tools.  The driving force for the firm's founding was a belief that the young individal investor has been at a competitive advantage as it relates to the above.  
 Tading in equities, options (non-margin), and crypto is free with no minimum balances.  In addition, in late 2018 and into late 2019, Robinhood sought to get into personal banking in an atempt to expad thier footprint in this demographic's finances.  During this time they were supposedly close to aligning with Ohio-based Sutton Bank where they would issue debit cards to customers and a supposed 3% annual interest rate to be given for bank depostis.  These deposits were to be SPIC-insured but the SPIC denied this. Robinhood had to wait until December 2019 to launch a "cash management" FDIC-backed product that would give customers a 1.8% rate on cash held at Robinhood. [^5]  
@@ -58,7 +58,7 @@ They use Kafka to synchonize data messaging between all their independant micros
 
 
 
-## Landscape:
+### Landscape:
 
 
 Industry Players | Favorable attributes [^15]
@@ -98,7 +98,7 @@ The second half of 2019 saw the industry try to come up with ways to ramp tradin
 * How is your company performing relative to competitors in the same domain?
 
 
-## Recommendations
+### Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 

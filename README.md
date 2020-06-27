@@ -45,6 +45,8 @@ The company's competitive advantage is the fact that they were one of the *"firs
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
 
+Well so then how does Robonhood make money? They make money on cash balances, margining, and small money on customer deposits if they can use them to get a higher yield elsewhere. Back in October of 2018 they allowed that they were making almost half their revenues in payment for order flow.  That is, third-parties that pay Robinhood for their order flow so that they can dictate which routes the orders will be executed at. Meaning that the third party takes some sort of spread on a given trade to the detriment of the customer.  It wsa discovered that Robinhood was entering into these transactions to the tune of sixty times more.  [^10][^11}
+
 
 ## Landscape:
 
@@ -95,6 +97,8 @@ The second half of 2019 saw the industry try to come up with ways to ramp tradin
 [^7]: [Marker Medium](https://marker.medium.com/how-robinhood-convinced-millennials-to-trade-their-way-through-a-pandemic-1a1db97c7e08)
 [^8]: [Brookings](http)s://www.brookings.edu/research/millennials/)
 [^9]: [Quora](https://www.quora.com/What-s-the-advantage-of-Robinhood)
+[^10]: [Bloomberg](https://www.bloomberg.com/news/articles/2018-10-15/robinhood-gets-almost-half-its-revenue-in-controversial-bargain-with-high-speed-traders)
+[^11]: [WSJ.com](https://www.bloomberg.com/news/articles/2018-10-15/robinhood-gets-almost-half-its-revenue-in-controversial-bargain-with-high-speed-traders)
 
 
 [^10] [Marker Medium](https://marker.medium.com/how-robinhood-convinced-millennials-to-trade-their-way-through-a-pandemic-1a1db97c7e08)

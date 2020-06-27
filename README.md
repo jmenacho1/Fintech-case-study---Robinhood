@@ -1,4 +1,4 @@
-![Robinhood.Image](
+![Robinhood.Image](robinhood.emblem)
 
 
 # Robinhood - A Fintech Case Study

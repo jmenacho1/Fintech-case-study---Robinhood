@@ -15,7 +15,7 @@ Robinhood in an online brokerage company that was founded with the thought that 
 
 Vlad Tenev and Baiju Bhatt lived and worked in New York after college and started up two companies in a short amount of time. The first wwas an algorithmic trading company called Celeris and the second one was a financial software company called Chronos Research.[^1]  Seeing first-hand that institutions were paying little for trades relative to individual investors and that the online technology and research afforded to this investor class was lacking.
 
-Robinhood was incorporated on April 18, 2013 and their initial funding was $3 million. [^2]  After their May 2020 $280 million funding they have now raised $1.2 billion over  eight separate funds which gets them to an $8.3 billion valuation. [^3]
+Robinhood was incorporated on April 18, 2013 and their initial funding was $3 million. [^2]  After their May 2020 $280 million funding they have now raised $1.2 billion over  eight separate funds which gets them to an $8.3 billion valuation [^3].
 
 
 ## Business Activities:

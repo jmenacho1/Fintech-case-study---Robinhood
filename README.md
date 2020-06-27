@@ -117,7 +117,7 @@ Metrics that the industry players use are obviously revenue and margins as well 
 [^1]: [Tech Crunch](https://techcrunch.com/2013/04/18/robinhood-app/?_ga=2.116074886.1805704415.1593219206-71989368.1593219206)<br/>
 [^2]: [Forbes](https://www.forbes.com/sites/halahtouryalai/2014/02/26/forget-10-trades-meet-robinhood-new-brokerage-targets-millennials-with-little-cash/#57a27c5a7f48)<br/>
 [^3]: [Craft](https://craft.co/robinhood/funding-rounds)<br/>
-[^4]: [Growjo]9https://growjo.com/company/Robinhood#:~:text=Estimated%20Revenue%20%26%20Financials,venture%20funding%20in%20May%202018.&text=Robinhood's%20total%20funding%20is%20%24539M.)<br/>
+[^4]: [Growjo](https://growjo.com/company/Robinhood#:~:text=Estimated%20Revenue%20%26%20Financials,venture%20funding%20in%20May%202018.&text=Robinhood's%20total%20funding%20is%20%24539M.)<br/>
 [^5]: [CNBC Robinhood](https://www.cnbc.com/2019/10/08/robinhood-makes-second-attempt-at-launching-a-high-yield-account-similar-to-banks.html)<br/>
 [^6]: [Nasdaq Robinhood](https://www.nasdaq.com/articles/robinhood-millennial-obsession-2018-08-23)<br/>
 [^7]: [Blog Robinhood](https://blog.robinhood.com/news/2019/12/4/ten-million-thanks)<br/>

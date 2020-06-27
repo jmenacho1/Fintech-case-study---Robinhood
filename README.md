@@ -9,7 +9,7 @@
  
 ---
 
-### Overview and Origin
+### Overview and Origin:
 
 Robinhood in an online brokerage company that was founded with the thought that individual investors could be emowered through clean mobile-focused user interface, low fees, and *"outside-the-box"* investment tools.  The firm was founded by two former Stanford Univertity roommates who - after trying their hand in New York's finance industy - saw a clear need to create an individula investor-targeted online brokerage offering.  
 
@@ -41,8 +41,9 @@ The company's competitive advantage is the fact that they were one of the *"firs
 - [X] Sleek, Coolness Factor
 - [X] Unique Proprietary Tools
 
+As Robinhood himself said:
 
-**_Steal From the Rich and take from the Poor?_**
+> **_Steal From the Rich and take from the Poor?_**
 
 
 ![robinhood.tweety](robinhood.tweety.JPG)

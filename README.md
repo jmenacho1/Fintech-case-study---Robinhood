@@ -25,16 +25,14 @@ Tading in equities, options (non-margin), and crypto is free with no minimum bal
 The age grouping that the firm has the most traction with is 28 to 41 years old. [^6]  In December of 2019, Robinhood signed up their 10 millionth custonmer. [^7]. Tenev was on televsion in late_april saying that Robinhood has been getting 50% of the national new brokerage accounts which is more then all the legacy players put together. [^8]  If it assumed that the company desires to be the one-stop shopping for all things financial for the  *"millennial"* generation (Ages 18 to 34) then there is more share to be gained for Robinhood as there are currently 75 million millennials in the US as of 2015. [^9]
 
 
-
-* Is there any information about the market size of this set of customers?
-
-
-*00000000 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-
 The company's competitive advantage is the fact that they were one of the *"first movers"* with the commission free trading platform and as a result they garnered a lot of insight into the investing methods and tendencies of smaller investors. [^10]  They are looked at as a "free" platform and is the appeal from a branding ppoint of view when potential customers are wanting to deploy money. The interface is very easy to use and is very sleek and that appels to millennials versus using one of the stodgey offerings ogf the legacy players in the space. Robinhood has some pretty cool features where they have "leaderboard" and "popularity changes" which show the most popular holdings of Robinhood customers over various holding periods. The below shows the stock (ticker: AAL) and the pink line shows the stock's price while the green line shows the collective holdins og Robinhood members. This is obviously proprietary in nature as it is their userbase that is creating the graphical representation of holdings. 
 
 
+
+
 ![AAL.robinhood](AAL.robinhood.JPG)
+
+
 
 
 **Robinhood Millennial Customer Checklist**
@@ -44,26 +42,26 @@ The company's competitive advantage is the fact that they were one of the *"firs
 - [X] Unique Proprietary Tools
 
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+Well so then how does Robinhood make money? They make money on cash balances, margining, and small money on customer deposits if they can use them to get a higher yield elsewhere. Back in October of 2018 they allowed that they were making almost half their revenues in payment for order flow.  That is, third-parties that pay Robinhood for their order flow so that they can dictate which routes the orders will be executed at. Meaning that the third party takes some sort of spread on a given trade to the detriment of the customer. It was discovered that Robinhood was entering into these transactions to the tune of sixty times more. [^11][^12]
 
-Robinhood's nightly batch process where they reconcile all customer trades for that day is an arduous one.  They run these batch processes against single Postgres database (an open-source database management system (RDBMS) and it used to take hours.  Their software engineers were able to address the shortcomings in the Postgres' structure and detected bottlenecks that they addresses which resulted in ten times faster processing speed.  They did not have to chage any code to make this happen. [^11}
+Robinhood is using some neat technology infrastructure in its leading FIntech offering.  They run a nightly batch process where they reconcile all customer trades for that day and its an arduous task.  They run these batch processes against single Postgres database (an open-source database management system (RDBMS)) and it used to take hours.  Their software engineers were able to address the shortcomings in the Postgres' structure and detected bottlenecks that they addresses which resulted in ten times faster processing speed.  They did not have to change any code to make this happen. [^13][^14]
 
+They use Kafka to synchonize data messaging between all their independant microservices and databases. Their back-end achitectre is flexible to plug in additional microservices but the Kafka helps to make sure all scenarios are accounted for which is particularly important when there is the back and forth processig of sustomer money.
 
-
-
-
-
-Well so then how does Robinhood make money? They make money on cash balances, margining, and small money on customer deposits if they can use them to get a higher yield elsewhere. Back in October of 2018 they allowed that they were making almost half their revenues in payment for order flow.  That is, third-parties that pay Robinhood for their order flow so that they can dictate which routes the orders will be executed at. Meaning that the third party takes some sort of spread on a given trade to the detriment of the customer. It was discovered that Robinhood was entering into these transactions to the tune of sixty times more. [^12][^13]
 
 
 ## Landscape:
 
-* What domain of the financial industry is the company in?
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
+Industry Players | Favorable attributes
 
-* What are the other major companies in this domain?
-
+---------------- | --------------------
+TD Ameritrade | BEst for beginners
+Fidelity | Best Research Experience
+Charles Schwab | Best for IRA accounts
+E-Trade | Best Web Platform
+Interactive Brokers | Best for Professionals
+TradeStation | Best Platform Technology
 
 
 
@@ -78,14 +76,15 @@ The trajectory of the online brokerage industry over the last twenty years has b
 
 
 
-
 The online brokerage industry is a Fintech industry that has undergone massive changes in the last year. Much of these changes occured after the industry saw several of its players try to differniate themselves by offering customers slightly varied platforms that provided things such as naunced research products and low to no fees on products such as ETFs.  In the fall of 2019, large player, Interactive Brokers, sought to gain market share by taking commissions to zero on ETF trades in their IB *"Lite"* service. [^13] 
 
 This *"race to zero"* on fees in the back half of 2019 led to a massive consolidation 
 
 In the last handful of years the industry has become very fragamented as players tried to differentiate themselves by offering different things to customers.
 
-The second half of 2019 saw the industry try to come up with ways to ramp trading activity as online customers (read retail) keenly took their money out of the market as the market grund slowly to all-time highs.
+The second half of 2019 saw the industry try to come up with ways to ramp trading activity as online customers (read retail) keenly took their money out of the market as the market ground slowly to all-time highs.
+
+
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
@@ -119,7 +118,7 @@ The second half of 2019 saw the industry try to come up with ways to ramp tradin
 [^11]: [Bloomberg](https://www.bloomberg.com/news/articles/2018-10-15/robinhood-gets-almost-half-its-revenue-in-controversial-bargain-with-high-speed-traders)
 [^12]: [WSJ.com](https://www.bloomberg.com/news/articles/2018-10-15/robinhood-gets-almost-half-its-revenue-in-controversial-bargain-with-high-speed-traders)
 [^13]: [RH Engineering Blog](https://robinhood.engineering/robinhood-hosts-its-first-tech-talk-eb01e35f239f)
-
+[^14]: [Stackshare](https://stackshare.io/kafka)
 
 [^10] [Marker Medium](https://marker.medium.com/how-robinhood-convinced-millennials-to-trade-their-way-through-a-pandemic-1a1db97c7e08)
 

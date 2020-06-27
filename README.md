@@ -23,14 +23,15 @@ Robinhood was incorporated on April 18, 2013 and their initial funding was $3 mi
 
 The company has tried to even the playing field for the younger, less-established investor class as it relates to competitive fees as well as research and trading tools.  The driving force for the firm's founding was a belief that the young individal investor has been at a competitive advantage as it relates to the above.  
 
-The company seeks to be the primary place that these often first-time investors go to trade single stocks, ETFs, and Crypto currencies. In addition, in late 2018 and into late 2019, Robinhood sought to get into personal banking in an atempt to expad thier footprint in this demographic's finances.  During this time they were supposedly close to aligning with Ohio-based Sutton Bank where they would issue debit cards to customers and a supposed 3% annual interest rate to be given for bank depostis.  These deposits were to be SPIC-insured but the SPIC denied this. Robinhood had to wait until December 2019 to launch a "cash management" FDIC-backed product that would give customers a 1.8% rate on cash held at Robinhood. [^4]
-
-As of August of 2018 the age group that used Robinhood was 28-41. [^5] In June of 2019 Robinhood added their 10 millionth customer. [^6]
-
-Is there any information about the market size of this set of customers?
+The company seeks to be the primary place that these often first-time investors go to trade single stocks, ETFs, and Crypto currencies. In addition, in late 2018 and into late 2019, Robinhood sought to get into personal banking in an atempt to expad thier footprint in this demographic's finances.  During this time they were supposedly close to aligning with Ohio-based Sutton Bank where they would issue debit cards to customers and a supposed 3% annual interest rate to be given for bank depostis.  These deposits were to be SPIC-insured but the SPIC denied this. Robinhood had to wait until December 2019 to launch a "cash management" FDIC-backed product that would give customers a 1.8% rate on cash held at Robinhood. [^4]  The age group that the firm has the most traction with is 28 to 41 years old. [^5]
 
 
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+Tenev was on televsion in late_april saying that Robinhood has been getting 50% og the national new brokerage accounts which is more then all the legacy players put together. [
+
+* Is there any information about the market size of this set of customers?
+
+
+* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 

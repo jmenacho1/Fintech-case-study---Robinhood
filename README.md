@@ -1,3 +1,9 @@
+
+![robinhood.emblem](robinhood.emblem.JPG)
+
+
+
+
 # Robinhood - A Fintech Case Study
 
 ---

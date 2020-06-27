@@ -1,4 +1,4 @@
-![Robinhood.Image](robinhood.emblem)
+![Robinhood.emblem](robinhood.emblem)
 
 
 # Robinhood - A Fintech Case Study
@@ -77,7 +77,7 @@ TradeStation | Best Platform Technology
 
 
 
-The trajectory of the online brokerage industry over the last twenty years has been one that has had various levels of success in trying to attain its ultimate goal: empowering the individual investor to make to be able to make their own investing decisions in an inexpensive fashion.  The industry has been one that has pushed the technoogial boundaries of the Fintech realm for the better part of twenty years.  Over the last 5 to 10 years there have been continuous tweaks lower to the fee/commission system to the benefit of the customer. Additionally, real-time quotes are now the norm rather than a paid-for expense. Technology offerings such as multi-study charting capabilities and valuation metrics have come a long way since the days of retail customers using yahoo finance to go along with a delayed quote trading system.
+The trajectory of the online brokerage industry over the last twenty years has been one that has had various levels of success in trying to attain its ultimate goal: empowering the individual investor to make to be able to make their own investing decisions in an inexpensive fashion.  The industry has been one that has pushed the technoogial boundaries of the Fintech realm for the better part of twenty years.  Over the last 5 to 10 years there have been continuous tweaks lower to the fee/commission system to the benefit of the customer. Additionally, real-time quotes are now the norm rather than a paid-for expense. Technology offerings such as multi-study charting capabilities and valuation metrics have come a long way since the days of retail customers using yahoo finance to go along with a delayed quote trading system. THis has made for a generally better user experience versus past years:
 
 
 

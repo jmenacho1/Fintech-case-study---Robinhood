@@ -3,11 +3,22 @@
 
 # Robinhood - A Fintech Case Study
 
-## Overview and Origin
+---
 
-THe trajectory of the online brokerage industry over the last twenty years has been one that has had various levels of success in trying to attain its ultimate goal: empowering the individual investor to make  
+## "Empowering the Individual Investor"
 
-The online brokerage industry is a FIntech indsutry that has undergone massive changes in the last year. Much of these changes occured after the industry saw several of its players try to differniate themselves by offering customers slightly varied platforms that provided things such as naunced research products and low to no fees on products such as ETFs.  In the fall of 2019, large player, Interactive Brokers, sought to gain market share by taking commissions to zero on equity and ETF trades [^1]. This *"race to zero"* on fees in the back half of 2019 led to a massive consolidation 
+---
+
+Robinhood in an online brokerage company that was founded with the thought that individual investors could be emowered through clean mobile-focused user interface, low fees, and *"outside-the-box"* investment tools.  The firm was founded by two former Stanford Univertity roommates who - after trying their hand in New York's finance industy - saw a clear need to create an individula investor-targeted online brokerage offering.  
+
+
+
+
+THe trajectory of the online brokerage industry over the last twenty years has been one that has had various levels of success in trying to attain its ultimate goal: empowering the individual investor to make to be able to make their own investing decisions in an inexpensive fashion.  The industry has been one that has pushed the technoogial boundaries of the Fintech realm for the better part of twenty years.    
+
+The online brokerage industry is a Fintech indsutry that has undergone massive changes in the last year. Much of these changes occured after the industry saw several of its players try to differniate themselves by offering customers slightly varied platforms that provided things such as naunced research products and low to no fees on products such as ETFs.  In the fall of 2019, large player, Interactive Brokers, sought to gain market share by taking commissions to zero on ETF trades [^1] in their IB *"Lite"* service. 
+
+This *"race to zero"* on fees in the back half of 2019 led to a massive consolidation 
 
 In the last handful of years the industry has become very fragamented as players tried to differentiate themselves by offering different things to customers.
 

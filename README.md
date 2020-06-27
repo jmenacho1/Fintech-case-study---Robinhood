@@ -78,7 +78,8 @@ The second half of 2019 saw the industry try to come up with ways to ramp tradin
 
 **Footnotes**
 
-[^1]: [Tech Crunch] (https://techcrunch.com/2013/04/18/robinhood-app/?_ga=2.116074886.1805704415.1593219206-71989368.1593219206)
+[^1]: [Tech Crunch](https://techcrunch.com/2013/04/18/robinhood-app/?_ga=2.116074886.1805704415.1593219206-71989368.1593219206)
+
 [^1]: [CNBC](https://www.cnbc.com/2019/10/13/battle-for-client-assets-heats-up-as-brokers-cut-fees-to-zero.html#:~:text=Interactive%20Brokers%20was%20among%20the,Lite%20service%20since%20late%20September.)
 
 

@@ -7,7 +7,7 @@
 
 THe trajectory of the online brokerage industry over the last twenty years has been one that has had various levels of success in trying to attain its ultimate goal: empowering the individual investor to make  
 
-The online brokerage industry is a FIntech indsutry that has undergone massive changes in the last year. Much of these changes occured after the industry saw several of its players try to differniate themselves by offering customers slightly varied platforms that provided things such as naunced research products and low to no fees on products such as ETFs.  In the fall of 2019, large player, Interactive Brokers, sought to gain market share by taking commissions to zero on equity and ETF trades[^1]. This *"race to zero"* on fees in the back half of 2019 led to a massive consolidation 
+The online brokerage industry is a FIntech indsutry that has undergone massive changes in the last year. Much of these changes occured after the industry saw several of its players try to differniate themselves by offering customers slightly varied platforms that provided things such as naunced research products and low to no fees on products such as ETFs.  In the fall of 2019, large player, Interactive Brokers, sought to gain market share by taking commissions to zero on equity and ETF trades ([^1]). This *"race to zero"* on fees in the back half of 2019 led to a massive consolidation 
 
 In the last handful of years the industry has become very fragamented as players tried to differentiate themselves by offering different things to customers.
 

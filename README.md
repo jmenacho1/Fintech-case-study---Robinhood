@@ -114,22 +114,22 @@ Metrics that the industry players use are obviously revenue and margins as well 
 
 **Footnotes**
 
-[^1]: [Tech Crunch](https://techcrunch.com/2013/04/18/robinhood-app/?_ga=2.116074886.1805704415.1593219206-71989368.1593219206)
-[^2]: [Forbes](https://www.forbes.com/sites/halahtouryalai/2014/02/26/forget-10-trades-meet-robinhood-new-brokerage-targets-millennials-with-little-cash/#57a27c5a7f48)
-[^3]: [Craft](https://craft.co/robinhood/funding-rounds)
-[^4]: [Growjo]9https://growjo.com/company/Robinhood#:~:text=Estimated%20Revenue%20%26%20Financials,venture%20funding%20in%20May%202018.&text=Robinhood's%20total%20funding%20is%20%24539M.)
-[^5]: [CNBC Robinhood](https://www.cnbc.com/2019/10/08/robinhood-makes-second-attempt-at-launching-a-high-yield-account-similar-to-banks.html)
-[^6]: [Nasdaq Robinhood](https://www.nasdaq.com/articles/robinhood-millennial-obsession-2018-08-23)
-[^7]: [Blog Robinhood](https://blog.robinhood.com/news/2019/12/4/ten-million-thanks)
-[^8]: [Marker Medium](https://marker.medium.com/how-robinhood-convinced-millennials-to-trade-their-way-through-a-pandemic-1a1db97c7e08)
-[^9]: [Brookings](http)s://www.brookings.edu/research/millennials/)
-[^10]: [Quora](https://www.quora.com/What-s-the-advantage-of-Robinhood)
-[^11]: [Bloomberg](https://www.bloomberg.com/news/articles/2018-10-15/robinhood-gets-almost-half-its-revenue-in-controversial-bargain-with-high-speed-traders)
-[^12]: [WSJ.com](https://www.bloomberg.com/news/articles/2018-10-15/robinhood-gets-almost-half-its-revenue-in-controversial-bargain-with-high-speed-traders)
-[^13]: [RH Engineering Blog](https://robinhood.engineering/robinhood-hosts-its-first-tech-talk-eb01e35f239f)
-[^14]: [Stackshare](https://stackshare.io/kafka)
-[^15]: [Stockbrokers.com](https://www.stockbrokers.com/guides/online-stock-brokers)
-[^16]: [CNBC-2](https://www.cnbc.com/2019/10/13/battle-for-client-assets-heats-up-as-brokers-cut-fees-to-zero.html#:~:text=Interactive%20Brokers%20was%20among%20the,Lite%20service%20since%20late%20September.)
+[^1]: [Tech Crunch](https://techcrunch.com/2013/04/18/robinhood-app/?_ga=2.116074886.1805704415.1593219206-71989368.1593219206)<br/>
+[^2]: [Forbes](https://www.forbes.com/sites/halahtouryalai/2014/02/26/forget-10-trades-meet-robinhood-new-brokerage-targets-millennials-with-little-cash/#57a27c5a7f48)<br/>
+[^3]: [Craft](https://craft.co/robinhood/funding-rounds)<br/>
+[^4]: [Growjo]9https://growjo.com/company/Robinhood#:~:text=Estimated%20Revenue%20%26%20Financials,venture%20funding%20in%20May%202018.&text=Robinhood's%20total%20funding%20is%20%24539M.)<br/>
+[^5]: [CNBC Robinhood](https://www.cnbc.com/2019/10/08/robinhood-makes-second-attempt-at-launching-a-high-yield-account-similar-to-banks.html)<br/>
+[^6]: [Nasdaq Robinhood](https://www.nasdaq.com/articles/robinhood-millennial-obsession-2018-08-23)<br/>
+[^7]: [Blog Robinhood](https://blog.robinhood.com/news/2019/12/4/ten-million-thanks)<br/>
+[^8]: [Marker Medium](https://marker.medium.com/how-robinhood-convinced-millennials-to-trade-their-way-through-a-pandemic-1a1db97c7e08)<br/>
+[^9]: [Brookings](http)s://www.brookings.edu/research/millennials/)<br/>
+[^10]: [Quora](https://www.quora.com/What-s-the-advantage-of-Robinhood)<br/>
+[^11]: [Bloomberg](https://www.bloomberg.com/news/articles/2018-10-15/robinhood-gets-almost-half-its-revenue-in-controversial-bargain-with-high-speed-traders)<br/>
+[^12]: [WSJ.com](https://www.bloomberg.com/news/articles/2018-10-15/robinhood-gets-almost-half-its-revenue-in-controversial-bargain-with-high-speed-traders)<br/>
+[^13]: [RH Engineering Blog](https://robinhood.engineering/robinhood-hosts-its-first-tech-talk-eb01e35f239f)<br/>
+[^14]: [Stackshare](https://stackshare.io/kafka)<br/>
+[^15]: [Stockbrokers.com](https://www.stockbrokers.com/guides/online-stock-brokers)<br/>
+[^16]: [CNBC-2](https://www.cnbc.com/2019/10/13/battle-for-client-assets-heats-up-as-brokers-cut-fees-to-zero.html#:~:text=Interactive%20Brokers%20was%20among%20the,Lite%20service%20since%20late%20September.)<br/>
 
 
 

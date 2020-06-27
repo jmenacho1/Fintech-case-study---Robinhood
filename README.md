@@ -115,13 +115,9 @@ Apr. '20 | 13mm
 
 ### Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+In staying with the theme that the company has had about trying to get more of the customers wallet they should issue, with one or several vendors, a credit card wher they can earn points for its usage. Vendors that make sens are millennial favorites like Starbucks, Whole Foods, a clothing company like J. Crew and an airline that flies corridors that millennials frequent. With these points they can either buy stocks or earn interest.  It benefits Robinhood to get as much money under their roof as possible as they will be able to be more flexible with their operations and future projects. Robinhood can construct it so that all the points of tranaction can occur at the same place - on the Robinhood app. Robinhood will also be able to earn nominal amounts of money on the credit card transactions.  They already have an app in place that can take in money and make purchases so this technology should be able to sit on top of current infrastructure.  If they want to take the low cost route they should jsut do this via credit cards. If they want to get more of the upside they can create something similar to an apple that utilizes a near-field communication but that would be costly at this point and not likely support the heavy cost uplift.  Starting with a card first makes the most sense.
 
-* Why do you think that offering this product or service would benefit the company?
 
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
 
 ---
 

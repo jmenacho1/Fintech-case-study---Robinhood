@@ -14,21 +14,21 @@
 
 ### Overview and Origin:
 
-Robinhood in an online brokerage company that was founded with the thought that individual investors could be emowered through clean mobile-focused user interface, low fees, and *"outside-the-box"* investment tools.  The firm was founded by two former Stanford Univertity roommates who - after trying their hand in New York's finance industy - saw a clear need to create an individula investor-targeted online brokerage offering.  
+Robinhood is an online brokerage company that was founded with the thought that individual investors could be emowered through clean mobile-focused user interface, low fees, and *"outside-the-box"* investment tools.  The firm was founded by two former Stanford Univertity roommates who - after trying their hand in New York's finance industy - saw a clear need to create an individula investor-targeted online brokerage offering.  The company's strategy to hae no-fee trading has been a disruptive event that has set in motion massive upheaval in the industry over the last several months.
 
 Vlad Tenev and Baiju Bhatt lived and worked in New York after college and started up two companies in a short amount of time. The first wwas an algorithmic trading company called Celeris and the second one was a financial software company called Chronos Research. [^1]  Seeing first-hand that institutions were paying little for trades relative to individual investors and that the online technology and research afforded to this investor class was lacking.
 
-Robinhood was incorporated on April 18, 2013 and their initial funding was $3 million. [^2]  After their May 2020 $280 million funding they have now raised $1.2 billion over  eight separate funds which gets them to an $8.3 billion valuation. [^3] The most recent yearly (2018) revenue estimate was $100.6 million. [^4]
+Robinhood was incorporated on April 18, 2013 and their initial funding was $3 million. [^2]  After their May 2020 $280 million funding they have now raised $1.2 billion over  eight separate funds which gets them to an $8.3 billion valuation. [^3] The most recent yearly (2018) revenue estimate was between $69 million and $100.6 million. [^4],[^18]
 
 ### Business Activities:
 
-The company has tried to even the playing field for the younger, less-established investor class as it relates to competitive fees as well as research and trading tools.  The driving force for the firm's founding was a belief that the young individal investor has been at a competitive advantage as it relates to the above.  
-Tading in equities, options (non-margin), and crypto is free with no minimum balances.  In addition, in late 2018 and into late 2019, Robinhood sought to get into personal banking in an atempt to expad thier footprint in this demographic's finances.  During this time they were supposedly close to aligning with Ohio-based Sutton Bank where they would issue debit cards to customers and a supposed 3% annual interest rate to be given for bank depostis.  These deposits were to be SPIC-insured but the SPIC denied this. Robinhood had to wait until December 2019 to launch a "cash management" FDIC-backed product that would give customers a 1.8% rate on cash held at Robinhood. [^5]  
+The company has tried to even the playing field for the younger, less-established investor class as it relates to competitive fees as well as research and trading tools.  The driving force for the firm's founding was a belief that the young individal investor has been at a competitive disadvantage as it relates to cost and information.  
+Trading in equities, options (non-margin), and crypto is free with no minimum balances. There has been a lot of informal messaging coming out of the company that they are trying to get millennials to spend their daily allocated money on stock trading versus, say, coffee.  Penny  In addition, in late 2018 and into late 2019, Robinhood sought to get into personal banking in an attempt to expad their footprint in this demographic's finances.  During this time they were supposedly close to aligning with Ohio-based Sutton Bank where they would issue debit cards to customers and a supposed 3% annual interest rate to be given for bank depostis.  These deposits were to be SPIC-insured but the SPIC denied this. Robinhood had to wait until December 2019 to launch a "cash management" FDIC-backed product that would give customers a 1.8% rate on cash held at Robinhood. [^5]  
 
-The age grouping that the firm has the most traction with is 28 to 41 years old. [^6]  In December of 2019, Robinhood signed up their 10 millionth custonmer. [^7]. Tenev was on televsion in late_april saying that Robinhood has been getting 50% of the national new brokerage accounts which is more then all the legacy players put together. [^8]  If it assumed that the company desires to be the one-stop shopping for all things financial for the  *"millennial"* generation (Ages 18 to 34) then there is more share to be gained for Robinhood as there are currently 75 million millennials in the US as of 2015. [^9]
+The age grouping that the firm has outlined as having the most traction with is the 28 to 41 year-old group. [^6]  In December of 2019, Robinhood signed up their 10 millionth custonmer. [^7]. Tenev was on televsion in late_april saying that Robinhood has been getting 50% of the national new brokerage accounts which is more then all the legacy players put together. [^8]  If it assumed that the company desires to be the one-stop shopping for all things financial for the  *"millennial"* generation (Ages 18 to 34) then there is more share to be gained for Robinhood as there are currently 75 million millennials in the US as of 2015. [^9]  Another huge advantage for Robinhood is that they interact with the customer via electronic infrastructure and at times phone (at a cost of $10/per call). A large component of the legacy online brokerage players have braicks and mortar overhead which affects their margins and potential competitiveness.
 
 
-The company's competitive advantage is the fact that they were one of the *"first movers"* with the commission free trading platform and as a result they garnered a lot of insight into the investing methods and tendencies of smaller investors. [^10]  They are looked at as a "free" platform and is the appeal from a branding ppoint of view when potential customers are wanting to deploy money. The interface is very easy to use and is very sleek and that appels to millennials versus using one of the stodgey offerings ogf the legacy players in the space. Robinhood has some pretty cool features where they have "leaderboard" and "popularity changes" which show the most popular holdings of Robinhood customers over various holding periods: 
+The company's competitive advantage is the fact that they were one of the *"first movers"* with the commission free trading platform and as a result they garnered a lot of insight into the investing methods and tendencies of smaller investors. [^10]  They are looked at as a "free" platform and is the appeal from a branding point of view when potential customers are wanting to deploy money. The interface is very easy to use and is very sleek and that appels to millennials versus using one of the stodgey offerings of the legacy players in the space. Robinhood has some pretty cool features where they have "leaderboard" and "popularity changes" which show the most popular holdings of Robinhood customers over various holding periods: 
 
 ![robinhood.leader](robinhood.leader.JPG)
 
@@ -96,13 +96,16 @@ The trajectory of the online brokerage industry over the last twenty years has b
 
 The online brokerage industry is a Fintech industry that has undergone massive changes in the last year. Much of these changes occured after the industry saw several of its players try to differniate themselves by offering customers slightly varied platforms that provided things such as naunced research products and low to no fees on products such as ETFs.  In the fall of 2019, large player, Interactive Brokers, sought to gain market share by taking commissions to zero on ETF trades in their IB *"Lite"* service. [^16] About a month later, Charles Schwab sent shockwaves across the industry by taking fees to zero on all stock trading which forced TD, E-Trade, Ally, adn Fidelity to do the same a week later.  This *"race to zero"* on fees in the back half of 2019 led to a massive consolidation where only a few months later in January, Schwab and TD Ameritrade merged.  This was the eventual result of margins getting constantly compressed in the industry.
 
+So you are getting free trading, much-improved tools and the safety of al these players being members of the Securities Investor Protection Corporation (SPIC). This means your investments have a $500,000 guarantee and cash has a guarantee of up to $250,000. [^17]
+
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
-Metrics that the industry players use are obviously revenue and margins as well as customer growth. It's fair to say that due to the slashing of fees over the last year and ensuing consolidation - that margins have not been going the right way for the indsutry.  Robinhood is a rpivate company and doesnt release andy formal financials. The only ones that have been loosely divulged pubicly is the revenue number from 2028 (~
+Metrics that the industry players use are obviously revenue and margins as well as customer growth. It's fair to say that due to the slashing of fees over the last year and ensuing consolidation - that margins have not been going the right way for the indsutry.  Against this backdrop Robinhood got its big break when the stock market crumbled in Q1'20.  Stocks got pounded and millennials were in *"buy-the-dip"* buy the dip mode.  Robinhood earned “nearly $100 million in fees for stock and options order flow” in Q1 2020. For context, the same part of Robinhood’s business was reported to have generated $69 million in revenue during all of 2018.[^18]
 
 * How is your company performing relative to competitors in the same domain?
 
+Wi
 
 ### Recommendations
 
@@ -134,8 +137,8 @@ Metrics that the industry players use are obviously revenue and margins as well 
 [^14]: [Stackshare](https://stackshare.io/kafka)<br/>
 [^15]: [Stockbrokers.com](https://www.stockbrokers.com/guides/online-stock-brokers)<br/>
 [^16]: [CNBC-2](https://www.cnbc.com/2019/10/13/battle-for-client-assets-heats-up-as-brokers-cut-fees-to-zero.html#:~:text=Interactive%20Brokers%20was%20among%20the,Lite%20service%20since%20late%20September.)<br/>
-
-
+[^17]: [Stocks&Coffee](https://stocksandcoffee.com/robinhood-vs-webull-vs-m1finance/)<br/>
+[^18]: [techcrunch](https://techcrunch.com/2020/06/23/amidst-robinhoods-planned-service-changes-a-tension-between-growth-and-safety/)
 
 [^10] [Marker Medium](https://marker.medium.com/how-robinhood-convinced-millennials-to-trade-their-way-through-a-pandemic-1a1db97c7e08)
 

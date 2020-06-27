@@ -52,7 +52,6 @@ As Robinhood himself said:
 
 
 
-
 ![robinhood.tweety](robinhood.tweety.JPG)
 
 

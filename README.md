@@ -98,14 +98,20 @@ The online brokerage industry is a Fintech industry that has undergone massive c
 
 So you are getting free trading, much-improved tools and the safety of al these players being members of the Securities Investor Protection Corporation (SPIC). This means your investments have a $500,000 guarantee and cash has a guarantee of up to $250,000. [^17]
 
-
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-
 Metrics that the industry players use are obviously revenue and margins as well as customer growth. It's fair to say that due to the slashing of fees over the last year and ensuing consolidation - that margins have not been going the right way for the indsutry.  Against this backdrop Robinhood got its big break when the stock market crumbled in Q1'20.  Stocks got pounded and millennials were in *"buy-the-dip"* buy the dip mode.  Robinhood earned “nearly $100 million in fees for stock and options order flow” in Q1 2020. For context, the same part of Robinhood’s business was reported to have generated $69 million in revenue during all of 2018.[^18]
 
-* How is your company performing relative to competitors in the same domain?
+Right now the best metric to judge RObonhood on is market share. They are increading their customer base at a meteoric rate. so go from ??? to 10mm custimers on DEcemeber of lat year can be compared against, say, Charles Schwab which has had a discount brokerage business since 1974 and has 14 million accounts.
 
-Wi
+
+**Robinhood's Meteoric Rise:**
+
+Year | Users [^19]
+---------------- | --------------------
+2017 | 2mm
+2018| 3.7mm+
+Jan. '20 | 10mm
+Apr. '20 | 13mm
+
 
 ### Recommendations
 
@@ -139,6 +145,7 @@ Wi
 [^16]: [CNBC-2](https://www.cnbc.com/2019/10/13/battle-for-client-assets-heats-up-as-brokers-cut-fees-to-zero.html#:~:text=Interactive%20Brokers%20was%20among%20the,Lite%20service%20since%20late%20September.)<br/>
 [^17]: [Stocks&Coffee](https://stocksandcoffee.com/robinhood-vs-webull-vs-m1finance/)<br/>
 [^18]: [techcrunch](https://techcrunch.com/2020/06/23/amidst-robinhoods-planned-service-changes-a-tension-between-growth-and-safety/)
+[^19]: [Marker Medium 2](https://marker.medium.com/how-robinhood-convinced-millennials-to-trade-their-way-through-a-pandemic-1a1db97c7e08)
 
 [^10] [Marker Medium](https://marker.medium.com/how-robinhood-convinced-millennials-to-trade-their-way-through-a-pandemic-1a1db97c7e08)
 

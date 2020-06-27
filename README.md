@@ -54,7 +54,6 @@ They use Kafka to synchonize data messaging between all their independant micros
 
 
 Industry Players | Favorable attributes
-
 ---------------- | --------------------
 TD Ameritrade | BEst for beginners
 Fidelity | Best Research Experience

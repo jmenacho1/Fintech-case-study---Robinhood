@@ -15,7 +15,7 @@ Robinhood in an online brokerage company that was founded with the thought that 
 
 Vlad Tenev and Baiju Bhatt lived and worked in New York after college and started up two companies in a short amount of time. The first wwas an algorithmic trading company called Celeris and the second one was a financial software company called Chronos Research. [^1]  Seeing first-hand that institutions were paying little for trades relative to individual investors and that the online technology and research afforded to this investor class was lacking.
 
-Robinhood was incorporated on April 18, 2013 and their initial funding was $3 million. [^2]  After their May 2020 $280 million funding they have now raised $1.2 billion over  eight separate funds which gets them to an $8.3 billion valuation. [^3] The most recent yearly revenue estimate was $100.6 million. [^4}
+Robinhood was incorporated on April 18, 2013 and their initial funding was $3 million. [^2]  After their May 2020 $280 million funding they have now raised $1.2 billion over  eight separate funds which gets them to an $8.3 billion valuation. [^3] The most recent yearly (2018) revenue estimate was $100.6 million. [^4}
 
 ## Business Activities:
 
@@ -63,9 +63,19 @@ Well so then how does Robinhood make money? They make money on cash balances, ma
 
 
 
-THe trajectory of the online brokerage industry over the last twenty years has been one that has had various levels of success in trying to attain its ultimate goal: empowering the individual investor to make to be able to make their own investing decisions in an inexpensive fashion.  The industry has been one that has pushed the technoogial boundaries of the Fintech realm for the better part of twenty years.    
+The trajectory of the online brokerage industry over the last twenty years has been one that has had various levels of success in trying to attain its ultimate goal: empowering the individual investor to make to be able to make their own investing decisions in an inexpensive fashion.  The industry has been one that has pushed the technoogial boundaries of the Fintech realm for the better part of twenty years.  Over the last 5 to 10 years there have been continuous tweaks lower to the fee/commission system to the benefit of the customer. Additionally, real-time quotes are now the norm rather than a paid-for expense. Technology offerings such as multi-study charting capabilities and valuation metrics have come a long way since the days of retail customers using yahoo finance to go along with a delayed quote trading system.
 
-The online brokerage industry is a Fintech indsutry that has undergone massive changes in the last year. Much of these changes occured after the industry saw several of its players try to differniate themselves by offering customers slightly varied platforms that provided things such as naunced research products and low to no fees on products such as ETFs.  In the fall of 2019, large player, Interactive Brokers, sought to gain market share by taking commissions to zero on ETF trades in their IB *"Lite"* service. [^2] 
+
+
+
+![Steam](Steam.JPG)
+
+
+
+
+
+
+The online brokerage industry is a Fintech industry that has undergone massive changes in the last year. Much of these changes occured after the industry saw several of its players try to differniate themselves by offering customers slightly varied platforms that provided things such as naunced research products and low to no fees on products such as ETFs.  In the fall of 2019, large player, Interactive Brokers, sought to gain market share by taking commissions to zero on ETF trades in their IB *"Lite"* service. [^13] 
 
 This *"race to zero"* on fees in the back half of 2019 led to a massive consolidation 
 
@@ -93,11 +103,11 @@ The second half of 2019 saw the industry try to come up with ways to ramp tradin
 **Footnotes**
 
 [^1]: [Tech Crunch](https://techcrunch.com/2013/04/18/robinhood-app/?_ga=2.116074886.1805704415.1593219206-71989368.1593219206)
-[^2}: [Forbes](https://www.forbes.com/sites/halahtouryalai/2014/02/26/forget-10-trades-meet-robinhood-new-brokerage-targets-millennials-with-little-cash/#57a27c5a7f48)
+[^2]: [Forbes](https://www.forbes.com/sites/halahtouryalai/2014/02/26/forget-10-trades-meet-robinhood-new-brokerage-targets-millennials-with-little-cash/#57a27c5a7f48)
 [^3]: [Craft](https://craft.co/robinhood/funding-rounds)
 [^4]: [Growjo]9https://growjo.com/company/Robinhood#:~:text=Estimated%20Revenue%20%26%20Financials,venture%20funding%20in%20May%202018.&text=Robinhood's%20total%20funding%20is%20%24539M.)
 [^5]: [CNBC Robinhood](https://www.cnbc.com/2019/10/08/robinhood-makes-second-attempt-at-launching-a-high-yield-account-similar-to-banks.html)
-[^6}: [Nasdaq Robinhood] (https://www.nasdaq.com/articles/robinhood-millennial-obsession-2018-08-23)
+[^6]: [Nasdaq Robinhood](https://www.nasdaq.com/articles/robinhood-millennial-obsession-2018-08-23)
 [^7]: [Blog Robinhood](https://blog.robinhood.com/news/2019/12/4/ten-million-thanks)
 [^8]: [Marker Medium](https://marker.medium.com/how-robinhood-convinced-millennials-to-trade-their-way-through-a-pandemic-1a1db97c7e08)
 [^9]: [Brookings](http)s://www.brookings.edu/research/millennials/)
@@ -108,7 +118,7 @@ The second half of 2019 saw the industry try to come up with ways to ramp tradin
 
 
 [^10] [Marker Medium](https://marker.medium.com/how-robinhood-convinced-millennials-to-trade-their-way-through-a-pandemic-1a1db97c7e08)
-[^2]: [CNBC](https://www.cnbc.com/2019/10/13/battle-for-client-assets-heats-up-as-brokers-cut-fees-to-zero.html#:~:text=Interactive%20Brokers%20was%20among%20the,Lite%20service%20since%20late%20September.)
+
 
 
 

@@ -127,7 +127,7 @@ Metrics that the industry players use are obviously revenue and margins as well 
 [^6]: [Nasdaq Robinhood](https://www.nasdaq.com/articles/robinhood-millennial-obsession-2018-08-23)<br/>
 [^7]: [Blog Robinhood](https://blog.robinhood.com/news/2019/12/4/ten-million-thanks)<br/>
 [^8]: [Marker Medium](https://marker.medium.com/how-robinhood-convinced-millennials-to-trade-their-way-through-a-pandemic-1a1db97c7e08)<br/>
-[^9]: [Brookings](http)s://www.brookings.edu/research/millennials/)<br/>
+[^9]: [Brookings](https://www.brookings.edu/research/millennials/)<br/>
 [^10]: [Quora](https://www.quora.com/What-s-the-advantage-of-Robinhood)<br/>
 [^11]: [Bloomberg](https://www.bloomberg.com/news/articles/2018-10-15/robinhood-gets-almost-half-its-revenue-in-controversial-bargain-with-high-speed-traders)<br/>
 [^12]: [WSJ.com](https://www.bloomberg.com/news/articles/2018-10-15/robinhood-gets-almost-half-its-revenue-in-controversial-bargain-with-high-speed-traders)<br/>

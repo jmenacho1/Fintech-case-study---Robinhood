@@ -93,6 +93,8 @@ The online brokerage industry is a Fintech industry that has undergone massive c
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
+Metrics that the industry players use are obviously revenue and margins as well as customer growth. It's fair to say that due to the slashing of fees over the last year and ensuing consolidation - that margins have not been going the right way for the indsutry.  Robinhood is a rpivate company and doesnt release andy formal financials. The only ones that have been loosely divulged pubicly is the revenue number from 2028 (~
+
 * How is your company performing relative to competitors in the same domain?
 
 

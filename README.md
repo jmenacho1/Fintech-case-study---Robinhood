@@ -23,7 +23,11 @@ Robinhood was incorporated on April 18, 2013 and their initial funding was $3 mi
 
 The company has tried to even the playing field for the younger, less-established investor class as it relates to competitive fees as well as research and trading tools.  The driving force for the firm's founding was a belief that the young individal investor has been at a competitive advantage as it relates to the above.  
 
-The company seeks to be the primary place that these often first-time investors go to trade single stocks, ETFs, and Crypto currencies. In addition, in late 2018 and into late 2019, Robinhood sought to get into personal banking in an atempt to expad thier footprint in this demographic's finances.  During this time they were supposedly close to aligning with Ohio-based Sutton Bank where they would issue debit cards to customers and a supposed 3% annual interest rate to be given for bank depostis.  These deposits were to be SPIC-insured but the SPIC denied this. Robinhood had to wait until December 2019 to launch a "cash management" FDIC-backed product that would give customers a 1.8% rate on cash held at Robinhood. [^4]  The age group that the firm has the most traction with is 28 to 41 years old. [^5]  In December of 2019, Robinhood signed up their 10 millionth custoner. [^6]. Tenev was on televsion in late_april saying that Robinhood has been getting 50% og the national new brokerage accounts which is more then all the legacy players put together. [^7]
+The company seeks to be the primary place that these often first-time investors go to trade single stocks, ETFs, and Crypto currencies. In addition, in late 2018 and into late 2019, Robinhood sought to get into personal banking in an atempt to expad thier footprint in this demographic's finances.  During this time they were supposedly close to aligning with Ohio-based Sutton Bank where they would issue debit cards to customers and a supposed 3% annual interest rate to be given for bank depostis.  These deposits were to be SPIC-insured but the SPIC denied this. Robinhood had to wait until December 2019 to launch a "cash management" FDIC-backed product that would give customers a 1.8% rate on cash held at Robinhood. [^4]  
+
+The age group that the firm has the most traction with is 28 to 41 years old. [^5]  In December of 2019, Robinhood signed up their 10 millionth custoner. [^6]. Tenev was on televsion in late_april saying that Robinhood has been getting 50% of the national new brokerage accounts which is more then all the legacy players put together. [^7]  If it assumed that the company desires to be the one-stop shopping for all things financial for the  *"millennial"* generation (Ages 18 to 34) then there is more share to be gained for Robinhood as there are currently 75 million millennials in the US as of 2015. [^8]
+
+
 
 * Is there any information about the market size of this set of customers?
 
@@ -81,6 +85,8 @@ The second half of 2019 saw the industry try to come up with ways to ramp tradin
 [^5}: [Nasdaq Robinhood] (https://www.nasdaq.com/articles/robinhood-millennial-obsession-2018-08-23)
 [^6]: [Blog Robinhood](https://blog.robinhood.com/news/2019/12/4/ten-million-thanks)
 [^7]: [Marker Medium](https://marker.medium.com/how-robinhood-convinced-millennials-to-trade-their-way-through-a-pandemic-1a1db97c7e08)
+[^8]: [Brookings](http)s://www.brookings.edu/research/millennials/)
+
 
 [^10] [Marker Medium](https://marker.medium.com/how-robinhood-convinced-millennials-to-trade-their-way-through-a-pandemic-1a1db97c7e08)
 [^2]: [CNBC](https://www.cnbc.com/2019/10/13/battle-for-client-assets-heats-up-as-brokers-cut-fees-to-zero.html#:~:text=Interactive%20Brokers%20was%20among%20the,Lite%20service%20since%20late%20September.)

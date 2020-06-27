@@ -53,9 +53,9 @@ They use Kafka to synchonize data messaging between all their independant micros
 ## Landscape:
 
 
-Industry Players | Favorable attributes
+Industry Players | Favorable attributes [^15]
 ---------------- | --------------------
-TD Ameritrade | BEst for beginners
+TD Ameritrade | Best for Beginners
 Fidelity | Best Research Experience
 Charles Schwab | Best for IRA accounts
 E-Trade | Best Web Platform
@@ -75,7 +75,7 @@ The trajectory of the online brokerage industry over the last twenty years has b
 
 
 
-The online brokerage industry is a Fintech industry that has undergone massive changes in the last year. Much of these changes occured after the industry saw several of its players try to differniate themselves by offering customers slightly varied platforms that provided things such as naunced research products and low to no fees on products such as ETFs.  In the fall of 2019, large player, Interactive Brokers, sought to gain market share by taking commissions to zero on ETF trades in their IB *"Lite"* service. [^13] 
+The online brokerage industry is a Fintech industry that has undergone massive changes in the last year. Much of these changes occured after the industry saw several of its players try to differniate themselves by offering customers slightly varied platforms that provided things such as naunced research products and low to no fees on products such as ETFs.  In the fall of 2019, large player, Interactive Brokers, sought to gain market share by taking commissions to zero on ETF trades in their IB *"Lite"* service. [^16] 
 
 This *"race to zero"* on fees in the back half of 2019 led to a massive consolidation 
 
@@ -118,6 +118,10 @@ The second half of 2019 saw the industry try to come up with ways to ramp tradin
 [^12]: [WSJ.com](https://www.bloomberg.com/news/articles/2018-10-15/robinhood-gets-almost-half-its-revenue-in-controversial-bargain-with-high-speed-traders)
 [^13]: [RH Engineering Blog](https://robinhood.engineering/robinhood-hosts-its-first-tech-talk-eb01e35f239f)
 [^14]: [Stackshare](https://stackshare.io/kafka)
+[^15]: [Stockbrokers.com](https://www.stockbrokers.com/guides/online-stock-brokers)
+[^16]: [CNBC-2](https://www.cnbc.com/2019/10/13/battle-for-client-assets-heats-up-as-brokers-cut-fees-to-zero.html#:~:text=Interactive%20Brokers%20was%20among%20the,Lite%20service%20since%20late%20September.)
+
+
 
 [^10] [Marker Medium](https://marker.medium.com/how-robinhood-convinced-millennials-to-trade-their-way-through-a-pandemic-1a1db97c7e08)
 

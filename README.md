@@ -15,7 +15,7 @@ Robinhood in an online brokerage company that was founded with the thought that 
 
 Vlad Tenev and Baiju Bhatt lived and worked in New York after college and started up two companies in a short amount of time. The first wwas an algorithmic trading company called Celeris and the second one was a financial software company called Chronos Research. [^1]  Seeing first-hand that institutions were paying little for trades relative to individual investors and that the online technology and research afforded to this investor class was lacking.
 
-Robinhood was incorporated on April 18, 2013 and their initial funding was $3 million. [^2]  After their May 2020 $280 million funding they have now raised $1.2 billion over  eight separate funds which gets them to an $8.3 billion valuation. [^3]
+Robinhood was incorporated on April 18, 2013 and their initial funding was $3 million. [^2]  After their May 2020 $280 million funding they have now raised $1.2 billion over  eight separate funds which gets them to an $8.3 billion valuation. [^3] The most recent yearly revenue estimate was $100.6 million. [^4}
 
 ## Business Activities:
 
@@ -23,9 +23,9 @@ Robinhood was incorporated on April 18, 2013 and their initial funding was $3 mi
 
 The company has tried to even the playing field for the younger, less-established investor class as it relates to competitive fees as well as research and trading tools.  The driving force for the firm's founding was a belief that the young individal investor has been at a competitive advantage as it relates to the above.  
 
-The company seeks to be the primary place that these often first-time investors go to trade single stocks, ETFs, and Crypto currencies. In addition, in late 2018 and into late 2019, Robinhood sought to get into personal banking in an atempt to expad thier footprint in this demographic's finances.  During this time they were supposedly close to aligning with Ohio-based Sutton Bank where they would issue debit cards to customers and a supposed 3% annual interest rate to be given for bank depostis.  These deposits were to be SPIC-insured but the SPIC denied this. Robinhood had to wait until December 2019 to launch a "cash management" FDIC-backed product that would give customers a 1.8% rate on cash held at Robinhood. [^4]  
+The company seeks to be the primary place that these often first-time investors go to trade single stocks, ETFs, and Crypto currencies. In addition, in late 2018 and into late 2019, Robinhood sought to get into personal banking in an atempt to expad thier footprint in this demographic's finances.  During this time they were supposedly close to aligning with Ohio-based Sutton Bank where they would issue debit cards to customers and a supposed 3% annual interest rate to be given for bank depostis.  These deposits were to be SPIC-insured but the SPIC denied this. Robinhood had to wait until December 2019 to launch a "cash management" FDIC-backed product that would give customers a 1.8% rate on cash held at Robinhood. [^5]  
 
-The age grouping that the firm has the most traction with is 28 to 41 years old. [^5]  In December of 2019, Robinhood signed up their 10 millionth custonmer. [^6]. Tenev was on televsion in late_april saying that Robinhood has been getting 50% of the national new brokerage accounts which is more then all the legacy players put together. [^7]  If it assumed that the company desires to be the one-stop shopping for all things financial for the  *"millennial"* generation (Ages 18 to 34) then there is more share to be gained for Robinhood as there are currently 75 million millennials in the US as of 2015. [^8]
+The age grouping that the firm has the most traction with is 28 to 41 years old. [^6]  In December of 2019, Robinhood signed up their 10 millionth custonmer. [^7]. Tenev was on televsion in late_april saying that Robinhood has been getting 50% of the national new brokerage accounts which is more then all the legacy players put together. [^8]  If it assumed that the company desires to be the one-stop shopping for all things financial for the  *"millennial"* generation (Ages 18 to 34) then there is more share to be gained for Robinhood as there are currently 75 million millennials in the US as of 2015. [^9]
 
 
 
@@ -34,7 +34,7 @@ The age grouping that the firm has the most traction with is 28 to 41 years old.
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
-The company's competitive advantage is the fact that they were one of the *"first movers"* with the commission free trading platform and as a result they garnered a lot of insight into the investing methods and tendencies of smaller investors. [^9]  They are looked at as a "free" platform and is the appeal from a branding ppoint of view when potential customers are wanting to deploy money. The interface is very easy to use and is very sleek and that appels to millennials versus using one of the stodgey offerings ogf the legacy players in the space. Robinhood has some pretty cool features where they have "leaderboard" and "popularity changes" which show the most popular holdings of Robinhood customers over various holding periods. The below shows the stock (ticker: AAL) and the pink line shows the stock's price while the green line shows the collective holdins og Robinhood members. This is obviously proprietary in nature as it is their userbase that is creating the graphical representation of holdings. 
+The company's competitive advantage is the fact that they were one of the *"first movers"* with the commission free trading platform and as a result they garnered a lot of insight into the investing methods and tendencies of smaller investors. [^10]  They are looked at as a "free" platform and is the appeal from a branding ppoint of view when potential customers are wanting to deploy money. The interface is very easy to use and is very sleek and that appels to millennials versus using one of the stodgey offerings ogf the legacy players in the space. Robinhood has some pretty cool features where they have "leaderboard" and "popularity changes" which show the most popular holdings of Robinhood customers over various holding periods. The below shows the stock (ticker: AAL) and the pink line shows the stock's price while the green line shows the collective holdins og Robinhood members. This is obviously proprietary in nature as it is their userbase that is creating the graphical representation of holdings. 
 
 
 ![AAL.robinhood](AAL.robinhood.JPG)
@@ -45,7 +45,7 @@ The company's competitive advantage is the fact that they were one of the *"firs
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
 
-Well so then how does Robonhood make money? They make money on cash balances, margining, and small money on customer deposits if they can use them to get a higher yield elsewhere. Back in October of 2018 they allowed that they were making almost half their revenues in payment for order flow.  That is, third-parties that pay Robinhood for their order flow so that they can dictate which routes the orders will be executed at. Meaning that the third party takes some sort of spread on a given trade to the detriment of the customer.  It wsa discovered that Robinhood was entering into these transactions to the tune of sixty times more.  [^10][^11}
+Well so then how does Robinhood make money? They make money on cash balances, margining, and small money on customer deposits if they can use them to get a higher yield elsewhere. Back in October of 2018 they allowed that they were making almost half their revenues in payment for order flow.  That is, third-parties that pay Robinhood for their order flow so that they can dictate which routes the orders will be executed at. Meaning that the third party takes some sort of spread on a given trade to the detriment of the customer.  It wsa discovered that Robinhood was entering into these transactions to the tune of sixty times more. [^11][^12]
 
 
 ## Landscape:
@@ -91,14 +91,16 @@ The second half of 2019 saw the industry try to come up with ways to ramp tradin
 [^1]: [Tech Crunch](https://techcrunch.com/2013/04/18/robinhood-app/?_ga=2.116074886.1805704415.1593219206-71989368.1593219206)
 [^2}: [Forbes](https://www.forbes.com/sites/halahtouryalai/2014/02/26/forget-10-trades-meet-robinhood-new-brokerage-targets-millennials-with-little-cash/#57a27c5a7f48)
 [^3]: [Craft](https://craft.co/robinhood/funding-rounds)
-[^4]: [CNBC Robinhood](https://www.cnbc.com/2019/10/08/robinhood-makes-second-attempt-at-launching-a-high-yield-account-similar-to-banks.html)
-[^5}: [Nasdaq Robinhood] (https://www.nasdaq.com/articles/robinhood-millennial-obsession-2018-08-23)
-[^6]: [Blog Robinhood](https://blog.robinhood.com/news/2019/12/4/ten-million-thanks)
-[^7]: [Marker Medium](https://marker.medium.com/how-robinhood-convinced-millennials-to-trade-their-way-through-a-pandemic-1a1db97c7e08)
-[^8]: [Brookings](http)s://www.brookings.edu/research/millennials/)
-[^9]: [Quora](https://www.quora.com/What-s-the-advantage-of-Robinhood)
-[^10]: [Bloomberg](https://www.bloomberg.com/news/articles/2018-10-15/robinhood-gets-almost-half-its-revenue-in-controversial-bargain-with-high-speed-traders)
-[^11]: [WSJ.com](https://www.bloomberg.com/news/articles/2018-10-15/robinhood-gets-almost-half-its-revenue-in-controversial-bargain-with-high-speed-traders)
+[^4]: [Growjo]9https://growjo.com/company/Robinhood#:~:text=Estimated%20Revenue%20%26%20Financials,venture%20funding%20in%20May%202018.&text=Robinhood's%20total%20funding%20is%20%24539M.)
+[^5]: [CNBC Robinhood](https://www.cnbc.com/2019/10/08/robinhood-makes-second-attempt-at-launching-a-high-yield-account-similar-to-banks.html)
+[^6}: [Nasdaq Robinhood] (https://www.nasdaq.com/articles/robinhood-millennial-obsession-2018-08-23)
+[^7]: [Blog Robinhood](https://blog.robinhood.com/news/2019/12/4/ten-million-thanks)
+[^8]: [Marker Medium](https://marker.medium.com/how-robinhood-convinced-millennials-to-trade-their-way-through-a-pandemic-1a1db97c7e08)
+[^9]: [Brookings](http)s://www.brookings.edu/research/millennials/)
+[^10]: [Quora](https://www.quora.com/What-s-the-advantage-of-Robinhood)
+[^11]: [Bloomberg](https://www.bloomberg.com/news/articles/2018-10-15/robinhood-gets-almost-half-its-revenue-in-controversial-bargain-with-high-speed-traders)
+[^12]: [WSJ.com](https://www.bloomberg.com/news/articles/2018-10-15/robinhood-gets-almost-half-its-revenue-in-controversial-bargain-with-high-speed-traders)
+
 
 
 [^10] [Marker Medium](https://marker.medium.com/how-robinhood-convinced-millennials-to-trade-their-way-through-a-pandemic-1a1db97c7e08)

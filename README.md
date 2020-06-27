@@ -11,14 +11,10 @@
 
 Robinhood in an online brokerage company that was founded with the thought that individual investors could be emowered through clean mobile-focused user interface, low fees, and *"outside-the-box"* investment tools.  The firm was founded by two former Stanford Univertity roommates who - after trying their hand in New York's finance industy - saw a clear need to create an individula investor-targeted online brokerage offering.  
 
-Vlad Tenev and Baiju Bhatt lived inad worked in New York after college and started up two companied in a short amount of time. The first wwas an algorithmic trading company called Celeris and the second one was a financial software company called Chronos Research.[^1]  Seeing first-hand that 1) 
+Vlad Tenev and Baiju Bhatt lived and worked in New York after college and started up two companies in a short amount of time. The first wwas an algorithmic trading company called Celeris and the second one was a financial software company called Chronos Research.[^1]  Seeing first-hand that institutions were paying little for trades relative to individual investors and that the online technology and research afforded to this investor class was lacking.
 
+Robinhood was incorporated on April 18, 2013 and their initial fund was $3 million. [^2}
 
-* When was the company incorporated?
-
-* Who are the founders of the company?
- 
-* How did the idea for the company (or project) come about?
 
 * How is the company funded? How much funding have they received?
 
@@ -79,6 +75,8 @@ The second half of 2019 saw the industry try to come up with ways to ramp tradin
 **Footnotes**
 
 [^1]: [Tech Crunch](https://techcrunch.com/2013/04/18/robinhood-app/?_ga=2.116074886.1805704415.1593219206-71989368.1593219206)
+[^2}: [Forbes](https://www.forbes.com/sites/halahtouryalai/2014/02/26/forget-10-trades-meet-robinhood-new-brokerage-targets-millennials-with-little-cash/#57a27c5a7f48)
+
 
 [^2]: [CNBC](https://www.cnbc.com/2019/10/13/battle-for-client-assets-heats-up-as-brokers-cut-fees-to-zero.html#:~:text=Interactive%20Brokers%20was%20among%20the,Lite%20service%20since%20late%20September.)
 
